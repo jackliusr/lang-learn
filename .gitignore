@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+.venv/
+venv/
+
+# Environment
+.env
+*.db
+*.db-wal
+*.db-shm
+
+# Flutter / Dart
+flutter_app/.dart_tool/
+flutter_app/build/
+flutter_app/.packages
+flutter_app/.pub/
+flutter_app/pubspec.lock
+flutter_app/android/.gradle/
+flutter_app/ios/Pods/
+flutter_app/ios/.symlinks/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+*.orig
